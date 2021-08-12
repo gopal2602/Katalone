@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_CreateUser_Scenario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c00a356d-ef22-442f-bb60-a8a09415d144</testCaseGuid>
+</TestCaseEntity>
